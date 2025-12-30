@@ -37,7 +37,7 @@ const App: React.FC = () => {
            {/* Font size reduced by 50% back to text-[11px] (mobile) and text-xs (desktop) */}
            <div className="max-w-3xl text-[11px] md:text-xs text-center leading-loose tracking-[0.1em] text-[#e5e5e5] opacity-90">
               <p className="mb-6">
-                Software driven asset management firm specializing in purpose built rentals, hotels, senior housing, and private member clubs in the US and Canada.
+                Software driven asset management firm specializing in purpose built rentals, hotels, and senior housing.
               </p>
               
               <div className="mt-12 flex justify-center font-sans">
